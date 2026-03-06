@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キャットアイメイク",
+  "base_artist": "奏音69",
+  "createdAt": "2026-03-06T05:36:45.793703Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャットアイメイク",
+      "artist": "奏音69",
+      "has_synced": false,
+      "path": "select/pl_01_キャットアイメイク_奏音69.txt"
+    }
+  ]
+}
